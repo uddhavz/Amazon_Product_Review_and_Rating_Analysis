@@ -1,4 +1,4 @@
-# Amazon_Product_Review_and_Rating_Analysis# Amazon Product Review Analysis with NBC Classifier
+# Amazon Product Review Analysis with NBC Classifier
 
 This project aims to analyze a large dataset of Amazon product reviews and ratings using Natural Language Processing (NLP) techniques and a Naive Bayes Classifier (NBC). The goal is to develop a predictive model that can accurately identify factors influencing product ratings and reviews.
 
